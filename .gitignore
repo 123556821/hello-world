@@ -1,0 +1,14 @@
+# 环境变量与密钥
+.env
+.env.*
+*.pem
+
+# 依赖
+node_modules/
+__pycache__/
+.venv/
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
